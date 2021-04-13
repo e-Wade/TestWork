@@ -9,12 +9,12 @@
 
 ### Для обучения 
 
-link: https://disk.yandex.ru/d/36gvK1eJA29hEw
+ссылка на датасет: https://disk.yandex.ru/d/36gvK1eJA29hEw
 - **train_data_200k.zip** — 200к строк, 79 фичей и 4 таргета
 
 ### Для предсказания
 
-link: https://disk.yandex.ru/d/Ic-p_4TOsxXCBQ
+ссылка на датасет: https://disk.yandex.ru/d/Ic-p_4TOsxXCBQ
 - **test_data_100k.zip** — 100к строк и 79 фичей
 
 ## Результаты 
